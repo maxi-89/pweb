@@ -42,7 +42,6 @@
 * [Flask](https://flask-es.readthedocs.io)
 * [Django](https://www.djangoproject.com)
 * [Stack Overflow](https://es.stackoverflow.com)
-* [Apuntes (Pablo Pandolfo)](doc/)
 
 ## Cronograma UNO
 
