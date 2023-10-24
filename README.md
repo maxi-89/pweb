@@ -1,20 +1,15 @@
-# Programación Web 1 (UNO) / Programación 3 (UB)
+# Curso Programación Web EEM9
+## Material Complementario
 
 ## Docentes
 
-* Titular: Mg. Ing. Pablo Pandolfo
-* UNO:
-  * Adjunto: Ing. Pedro Occhipinti
+* Mentores: Maximiliano Exequiel Rodriguez - Walter Gomez
 
 ## Objetivos
 
 * Que los alumnos adquieran los conocimientos iniciales para desarrollarse en el área de programación; con experiencia en tecnologías web: HTML, CSS y Javascript.
 
-## Reglas
 
-* Respeto
-* Puntualidad
-* Mantenerse al día con las tecnologías
 
 ## Programa
 
