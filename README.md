@@ -1,7 +1,7 @@
 # Curso Programación Web EEM9
 ## Material Complementario
 
-## Docentes
+
 
 * Mentores: Maximiliano Exequiel Rodriguez - Walter Gomez
 
@@ -45,4 +45,3 @@
 
 Fuente: Material de estudio Tecnicatura Programacion web, Pablo Pandolfo
 
-Fuente:
